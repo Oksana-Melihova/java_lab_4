@@ -1,2 +1,2 @@
-# java_lab_4
-java lab 4
+# java_lab_5
+java lab 5
